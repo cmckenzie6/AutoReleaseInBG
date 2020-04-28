@@ -10,7 +10,6 @@ https://www.esoui.com/forums/faq.php?faq=install#faq_howto_install
 This addon is enabled by default and will automatically release your character immediately upon death in a battleground. You can enable/disable this functionality using the slash command.
 
 ## Slash commands
-You can type `/fv` or `/fastvolume` for all commands
 ```
 /arbg             Display status
 /arbg on          Enable auto-release in battleground (default)
