@@ -1,4 +1,6 @@
 # AutoReleaseInBG
+![AutoReleaseInBG](/web/arbg.PNG)
+
 Interface addon for automatically releasing in battlegrounds in the Elder Scrolls Online.
 
 # Installation
