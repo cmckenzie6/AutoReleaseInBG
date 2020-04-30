@@ -1,8 +1,8 @@
 ## Title: AutoReleaseInBG
 ## Author: Colin McKenzie
 ## APIVersion: 100030
-## AddOnVersion: 001
-## Version: 0.1
+## AddOnVersion: 002
+## Version: 0.2
 ## IsLibrary: false
 ## SavedVariables: AutoReleaseInBGSavedVariables
 
